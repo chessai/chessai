@@ -1,6 +1,6 @@
 ### Hi there, I'm chessai 👋
 
-## I'm a Haskell Programmer at Mercury Technologies!
+## I'm a Haskell Programmer!
 - 🔭 I'm Chair of the Haskell Core Libraries Committee
 - 🌱 I maintain over 100 Haskell libraries, including the Haskell standard library, `base`
 <!-- 👯 I’m looking to collaborate on ... -->
