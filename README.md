@@ -12,7 +12,7 @@
 
 ### Reach me:
 
-[<img align="left" alt="chessai | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />]()
+[<img align="left" alt="chessai | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />]()
 [<img align="left" alt="chessai | FP Slack" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" />]()
 
 <br />
