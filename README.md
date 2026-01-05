@@ -5,5 +5,3 @@
 - I'm interested in build systems, package managers, compilers, operating systems, data structures, embedded strongly-typed pure functional programming
 - I (co-)maintain over 100 Haskell packages
 
----
-![chessai's github stats](https://github-readme-stats.vercel.app/api?username=chessai&count_private=true&show_icons=true&theme=synthwave)
